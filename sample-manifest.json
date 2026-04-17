@@ -1,12 +1,12 @@
 {
-  "export_job_id": "befb2d14-1a8a-44c4-b5a6-3a22ffd9a4dd",
+  "export_job_id": "1b7e7e18-0f3e-450c-aeb6-b9c449097572",
   "id_short": 700059,
-  "published_at": "2026-04-14T19:47:13Z",
+  "published_at": "2026-04-17T19:58:36Z",
   "repo_name": "all-restaurants-in-santa-cruz-watsonville-metro-california-us-sample-700059",
   "sample_asset_name": "beamstation_700059_restaurants-us-santacruzwatsonvilleca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/700059/beamstation_700059_restaurants-us-santacruzwatsonvilleca_SAMPLE_DIST.csv",
   "sample_records": 44,
   "sample_sha256": "0907386349bb8e834f94021e27a8fc9a280c7dde5153489dd619ada3d3906495",
   "sample_size_bytes": 184508,
-  "total_records": 445
+  "total_records": 442
 }
